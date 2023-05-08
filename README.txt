@@ -1,3 +1,5 @@
+Video link: https://www.youtube.com/watch?v=BYqhh4LVoV4
+
 STAMP is a automated task tool that lets you quickly apply logos or similar to multiple images
 at a time.
 
